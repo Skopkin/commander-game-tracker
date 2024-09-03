@@ -1,0 +1,20 @@
+body {
+    font-size: 16px;
+    background-color: #282828;
+    color: antiquewhite;
+}
+
+header {
+    background-color: #121212;
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1, h2 {
+    font-weight: bold;
+}

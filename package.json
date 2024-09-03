@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "dev": "tsx server.ts",
-    "start": "tsc && npm run dev"
+    "dev": "sudo tsx server.ts",
+    "start": "sudo tsc && npm run dev"
   },
   "keywords": [
     "nodejs",
